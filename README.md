@@ -3,4 +3,4 @@
 <p>You can create any kind of a webstie with WebDrive theme whether it's Static, Dynamic, E-Commerce store, Portfolio website, Branding/Business website or if you want to setup a Blog as per your liking, look no further.</p>
 <p>In order to use it just click the zip file/folder of my theme in my repository & download the zipped folder, go the WordPress admin dashboard, select the appearance option there go to themes, up there you'll see the add new theme button click it and select this zipped folder and then install it then activate it.</p>
 <h2>Note: Currently in Development</h2>
-<p>Rightnow there is just folder stucture in the current build but I'm planning to add the styles & scripts code soon.</p>
+<p>Rightnow there is proper folder stucture in the current build but I'm planning to add the styles & scripts code soon.</p>
